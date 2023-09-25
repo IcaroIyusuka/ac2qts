@@ -13,13 +13,13 @@ public class User {
 			Class.forName("com.mysql.Driver.Manager").newInstance();
 			String url = "jdbc:mysql://127.0.0.1/test?user=lopes&password=123";
 			conn = DriverManager.getConnection(url);
-		}catch (Expection e) { }
+		     }catch (Exception e) { }
 		return conn;}
 		public String nome="";
 		public boolean result = false; 
 		public boolean verificarUsuario(String login, String senha) {
 			String sql="";
-			Connection con = conectarBD();
+			Connection conn = conectarBD();
 			//instruçõres SQL
 			sql += "select nome from usuario";
 			sql += "where login =" + "'" + login + "'"; 
