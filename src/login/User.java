@@ -26,7 +26,7 @@ public class User {
 			sql += "and senha =" + "'" + senha + "';";
 			try {
 				Statement st = conn.createStatement();
-				ResultSet sr = st.executeQuerry(sql);
+				ResultSet rs = st.executeQuery(sql);
 				if(rs.next()) {
 					result = true;
 					nome = rs.getString("nome");
