@@ -44,7 +44,7 @@ public class User {
 					result = true;//16/
 					nome = rs.getString("nome");//17/
 					
-				}
+				}//18/
 				
 			}catch (Exception e) {}//11 e 12/
 			
