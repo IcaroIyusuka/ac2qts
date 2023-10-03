@@ -21,7 +21,8 @@ As conexões estão em aberto, pois não foram fechadas de forma.
 
 # Etapa 2 
 ## Codigo numerado.
-![marcação](https://github.com/IcaroIyusuka/ac2qts/assets/115050400/c0c325c0-a8aa-4459-acc7-182c8fd4d66d)
+![marca2](https://github.com/IcaroIyusuka/ac2qts/assets/115050400/a49e474f-cabc-483a-a65c-a55c39fd03b2)
+
 
 ## Fluxo de Grafo, Complexidade Ciclomática e Base de Caminhos
 ![fluxo2](https://github.com/IcaroIyusuka/ac2qts/assets/115050400/ca40accc-497e-4b54-ba83-d78c4d13b390)
