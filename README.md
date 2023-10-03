@@ -24,4 +24,5 @@ As conexões estão em aberto, pois não foram fechadas de forma.
 ![marcação](https://github.com/IcaroIyusuka/ac2qts/assets/115050400/c0c325c0-a8aa-4459-acc7-182c8fd4d66d)
 
 ## Fluxo de Grafo, Complexidade Ciclomática e Base de Caminhos
-![fluxo](https://github.com/IcaroIyusuka/ac2qts/assets/115050400/2f9486be-1bf3-4340-94c4-66e3b479133a)
+![fluxo2](https://github.com/IcaroIyusuka/ac2qts/assets/115050400/ca40accc-497e-4b54-ba83-d78c4d13b390)
+
